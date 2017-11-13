@@ -25,8 +25,8 @@ The page hosts the partitions created by each method in our comparison set of co
 
 ### Download the package:
 <p align="left">
-<a href="Benchmark/CommunityFitNet.csv">Download CSV Format</a> ,<br> 
-<a href="Benchmark/CommunityFitNet.txt">Download JSON Format</a> ,<br>
+<a href="Benchmark/CommunityFitNet.csv">Download CSV Format</a>,<br> 
+<a href="Benchmark/CommunityFitNet.txt">Download JSON Format</a>,<br>
 <a href="Benchmark/CommunityFitNet.pickle">Download Pickle Format</a>.</p>
 
 <p align="justify">The proposed package contains the novel corpus of 406 real-world networks from many scientific domains drawn from the Index of Complex Networks (<a href="https://icon.colorado.edu/#!/">ICON</a>). This corpus spans a variety of sizes and structures, with 30% social, 27% economic, 32% biological, 9% technological, 1% information, and 1% transportation graphs (Fig. 1 of the paper). In addition to the metadata extracted for each network we provide the partitions achieved by our set of chosen algorithms in our paper for further study and comparisons by other researchers in the field.</p>
