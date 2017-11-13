@@ -4,7 +4,7 @@
 </p>
 
 <p align="justify">This page is a companion for our paper on 
-overfitting and underfitting on real networks, written by <a href = "https://sites.google.com/site/amirghasemian/Home">Amir Ghasemian</a>, <a href = "https://sites.google.com/site/homahosseinmardi/home">Homa Hosseinmardi</a>, and <a href="http://santafe.edu/~aaronc/">Aaron Clauset</a>.
+overfitting and underfitting of community detection methods on real networks, written by <a href = "https://sites.google.com/site/amirghasemian/Home">Amir Ghasemian</a>, <a href = "https://sites.google.com/site/homahosseinmardi/home">Homa Hosseinmardi</a>, and <a href="http://santafe.edu/~aaronc/">Aaron Clauset</a>.
 The page hosts the partitions created by each method in our comparison set of community detection algorithms (Table 1 of the paper).</p>
 
 <p align="center">
