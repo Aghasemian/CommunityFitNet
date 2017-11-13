@@ -21,8 +21,8 @@ Our goal is to provide a community detection benchmark used as a standardized re
 </p>
 
 ### Reference:
-Amir Ghasemian, Homa Hosseinmardi, and Aaron Clauset.
-["Evaluating and Comparing Overfit in Models of Network Community Structure (2017)"](http://arxiv.org/abs/...)
+Amir Ghasemian, Homa Hosseinmardi, and Aaron Clauset,
+["Evaluating and Comparing Overfit in Models of Network Community Structure (2017)"](http://arxiv.org/abs/...).
 
 ### Download the package:
 
