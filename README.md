@@ -9,7 +9,7 @@ overfitting and underfitting on real networks, written by [Amir Ghasemian](https
 The page hosts the partitions created by each method in our comparison set of community detection algorithms (Table 1 of the paper).
 
 <p align="center">
-<img src ="Images/Images/table1.png"><br>
+<img src ="Images/table1.png"><br>
 <b>Table 1 of the paper</b>
 </p>
 
