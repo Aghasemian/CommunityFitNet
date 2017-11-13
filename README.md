@@ -17,6 +17,8 @@ Amir Ghasemian, Homa Hosseinmardi, and Aaron Clauset.
 ["Evaluating and Comparing Overfit in Models of Network Community Structure (2017)"](http://arxiv.org/abs/...)
 
 **Download the package:**
+<a href="Benchmark/CommunityFitNet.txt">Download File</a>
+
 The proposed package contains the novel corpus of 406 real-world networks from many scientific domains drawn from the Index of Complex Networks (<a href="https://icon.colorado.edu/#!/">ICON</a>). This corpus spans a variety of sizes and structures, with 30% social, 27% economic, 32% biological, 9% technological, 1% information, and 1% transportation graphs (Fig. 1 of the paper). In addition to the metadata extracted for each network we provide the partitions achieved by our set of chosen algorithms in our paper for further study and comparisons by other researchers in the field.
 
 ![Fig. 1 of the paper](Images/Fig_icon_stats_v2_406_v2.png)
