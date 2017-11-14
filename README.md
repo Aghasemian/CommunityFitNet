@@ -9,7 +9,7 @@ overfitting and underfitting of community detection methods on real networks, wr
 <p align="justify"> The purpose of this package is to facilitate between-algorithm comparisons on a large and realistic corpus of network data sets drawn from a variety of domains and of a variety of sizes. The qualitative behavior of new community detection algorithms can be assessed by comparing their partitions to those in the reference set. To compare a new algorithm with those in our evaluation set of algorithms, a researcher can run the new algorithm on the proposed benchmark, and identify which reference algorithm has the most similar behavior, e.g., in the average number of communities found (Fig. 2b of the paper). We believe the availability of this benchmark and the results of running so many state-of-the-art algorithms on it should facilitate further advances in developing community detection algorithms.</p>
 
 <p align="center">
-<img src="Images/Ave_det_vs_edges_Fig2b.png" width=500><br>
+<img src="Images/Ave_det_vs_edges_Fig2b.png" width=450><br>
 <b>Fig. 2b of the paper</b>
 </p>
 
@@ -22,7 +22,7 @@ overfitting and underfitting of community detection methods on real networks, wr
 </p>
 
 <p align="center">
-<img src="Images/hier_clus_methods_NMI_Fig4.png" width=600><br>
+<img src="Images/hier_clus_methods_NMI_Fig4.png" width=700><br>
 <b>Fig. 4 of the paper</b>
 </p>
 
@@ -44,6 +44,6 @@ overfitting and underfitting of community detection methods on real networks, wr
 </p>
 
 <p align="center">
-<img src ="Images/table1.png" width=700><br>
+<img src ="Images/table1.png" width=800><br>
 <b>Table 1 of the paper</b>
 </p>
