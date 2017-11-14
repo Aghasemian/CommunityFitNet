@@ -23,7 +23,7 @@ General algorithms like MDL, Bayesian methods and regularized-likelihood algorit
 
 <p align="center">
 <img src="Images/hier_clus_methods_NMI_Fig4.png" width=600><br>
-<b>(Fig. 4 of the paper) hierarchical clustering using Normalized Mutual Information of partitions achieved by different algorithms</b>
+<b>Fig. 4 of the paper</b>
 </p>
 
 ### Reference:
