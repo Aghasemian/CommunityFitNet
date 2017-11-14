@@ -22,7 +22,7 @@ General algorithms like MDL, Bayesian methods and regularized-likelihood algorit
 </p>
 
 <p align="center">
-<img src="Images/hier_clus_methods_NMI_Fig4.png" align="left" width=700 hspace=20/>
+<img src="Images/hier_clus_methods_NMI_Fig4.png" width=600><br>
 <b>(Fig. 4 of the paper) hierarchical clustering using Normalized Mutual Information of partitions achieved by different algorithms</b>
 </p>
 
@@ -39,11 +39,11 @@ General algorithms like MDL, Bayesian methods and regularized-likelihood algorit
 <p align="justify">This package contains the corpus of 406 real-world networks from many scientific domains drawn from the Index of Complex Networks (<a href="https://icon.colorado.edu/#!/">ICON</a>). This corpus spans a variety of sizes and structures, with 30% social, 27% economic, 32% biological, 9% technological, 1% information, and 1% transportation graphs (Fig. 1 of the paper). In addition to the information about each network, we provide the partitions achieved by our set of chosen algorithms in our paper for further study and comparisons by other researchers in the field.</p>
 
 <p align="center">
-<img src ="Images/Fig_icon_stats_Fig1.png"><br>
+<img src ="Images/Fig_icon_stats_Fig1.png" width=500><br>
 <b>Fig. 1 of the paper</b>
 </p>
 
 <p align="center">
-<img src ="Images/table1.png"><br>
+<img src ="Images/table1.png" width=700><br>
 <b>Table 1 of the paper</b>
 </p>
