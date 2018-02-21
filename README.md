@@ -22,7 +22,7 @@ overfitting and underfitting of community detection methods on real networks, wr
 </p>
 
 <p align="center">
-<img src="Images/hier_clus_methods_NMI_Fig4.png" width=700><br>
+<img src="Images/hier_clus_methods_AMI_Fig4.png" width=700><br>
 <b>Fig. 4 of the paper</b>
 </p>
 
