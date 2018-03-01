@@ -28,7 +28,7 @@ overfitting and underfitting of community detection methods on real networks, wr
 
 ### Reference:
 <p align="justify">Amir Ghasemian, Homa Hosseinmardi, and Aaron Clauset,<br>
-<a href="https://arxiv.org/abs/1802.10582">"Evaluating and Comparing Overfit in Models of Network Community Structure"</a>.</p>
+<a href="https://arxiv.org/abs/1802.10582">"Evaluating Overfit and Underfit in Models of Network Community Structure"</a>.</p>
 
 ### Download the package:
 <p align="left">
