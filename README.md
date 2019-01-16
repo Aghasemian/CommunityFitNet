@@ -37,7 +37,6 @@ overfitting and underfitting of community detection methods on real networks, wr
 
 ### Download the package:
 <p align="left">
-<a href="Benchmark/CommunityFitNet.csv">Download CSV Format</a>,<br> 
 <a href="Benchmark/CommunityFitNet.txt">Download JSON Format</a>,<br>
 <a href="Benchmark/CommunityFitNet.pickle">Download Pickle Format</a>.</p>
 
