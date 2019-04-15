@@ -33,13 +33,13 @@ overfitting and underfitting of community detection methods on real networks, wr
 
 ### Reference:
 <p><a>To appear, IEEE Trans. Knowledge and Data Engineering (TKDE) (2019),
-<b>Evaluating and Comparing Overfit in Models of Network Community Structure</b></a>
+<br><b>Evaluating and Comparing Overfit in Models of Network Community Structure</b></a>
 <br><b>Amir Ghasemian</b>, Homa Hosseinmardi, and Aaron Clauset
 <br> (<a href="https://arxiv.org/abs/1802.10582" target="_blank"> arXiv version </a>)</p>
 
 ### Download the package:
 <p align="left">
-<a href="Benchmark/...">Download JSON Format (TBA)</a>,<br>
+<a>Download JSON Format (To Be Added)</a>,<br>
 <a href="Benchmark/CommunityFitNet.pickle">Download Pickle Format</a>.</p>
 Note: Previously the CSV Format was also provided. We found some issues in that file and removed it. 
 
