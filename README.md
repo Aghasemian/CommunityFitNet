@@ -14,21 +14,21 @@ overfitting and underfitting of community detection methods on real networks, wr
 </p>
 
 ### Overfitting and Underfitting among different clustering algorithms
-<p align="justify">General algorithms like MDL, Bayesian methods and regularized-likelihood algorithms tend to perform very well under different settings and can be used as reference methods for comparing with new methods. Additionally, popular methods like Infomap and modularity tend to over-ﬁt in practice and are thus not generally reliable, at least under link prediction (Fig. 5 of the paper). However, when these more specialized methods are paired with their preferred inputs, they tend to perform much better (Fig. 8 of the paper). Generally community detection algorithms can be categorized into two general settings of probabilistic and heuristic methods. This dichotomy can be seen in the hierarchical clustering of 16 state-of-the-art community detection algorithms (Fig. 4 of the paper).</p>
+<p align="justify">General algorithms like MDL, Bayesian methods and regularized-likelihood algorithms tend to perform very well under different settings and can be used as reference methods for comparing with new methods. Additionally, popular methods like Infomap and modularity tend to over-ﬁt in practice and are thus not generally reliable, at least under link prediction (Fig. 4 of the paper). However, when these more specialized methods are paired with their preferred inputs, they tend to perform much better (Fig. 6 of the paper). Generally community detection algorithms can be categorized into two general settings of probabilistic and heuristic methods. This dichotomy can be seen in the hierarchical clustering of 16 state-of-the-art community detection algorithms (Fig. 3 of the paper).</p>
 
 <p align="center">
 <img src ="Images/Fig_LPLD_August_18_wdf_3.png" width=900><br>
-<b>Fig. 5 of the paper</b>
+<b>Fig. 4 of the paper</b>
 </p>
 
 <p align="center">
 <img src ="Images/Fig_LP_Aug_18_domain.png" width=900><br>
-<b>Fig. 8 of the paper</b>
+<b>Fig. 6 of the paper</b>
 </p>
 
 <p align="center">
 <img src="Images/hier_clus_algouts_c02_ami_Aug18.png" width=700><br>
-<b>Fig. 4 of the paper</b>
+<b>Fig. 3 of the paper</b>
 </p>
 
 ### Reference:
@@ -51,6 +51,6 @@ Note: Previously the CSV Format was also provided. We found some issues in that 
 </p>
 
 <p align="center">
-<img src ="Images/table1.png" width=800><br>
+<img src ="Images/table1.png" width=500><br>
 <b>Table 1 of the paper</b>
 </p>
