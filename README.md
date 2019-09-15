@@ -45,6 +45,25 @@ Note: Previously the CSV Format was also provided. We found some issues in that 
 
 <p align="justify">This package contains the corpus of 572 real-world networks from many scientific domains drawn from the Index of Complex Networks (<a href="https://icon.colorado.edu/#!/">ICON</a>). This corpus spans a variety of sizes and structures, with 22% social, 21% economic, 34% biological, 12% technological, 4% information, and 7% transportation graphs (Fig. 1 of the paper). In addition to the information about each network, we provide the partitions achieved by our set of chosen algorithms in our paper for further study and comparisons by other researchers in the field.</p>
 
+### Instruction for using the package:
+
+<p align="justify"> To load the data:</p>
+
+```python 
+import pickle  
+# load the data 
+infile = open('./CommunityFitNet.pickle','rb')  
+df = pickle.load(infile)  
+
+# read edge lists for all networks
+df_edgelists = df['edges_id'] # column 'edges_id' in dataframe df includes the edge list 
+                              # for each network 
+ 
+# extract the edge list for the first network 
+edges_orig = df_edgelists.iloc[0] # a numpy array of edge list for original graph 
+```
+
+
 <p align="center">
 <img src ="Images/Fig_icon_stats_v2_406_Aug_18.png" width=500><br>
 <b>Fig. 1 of the paper</b>
