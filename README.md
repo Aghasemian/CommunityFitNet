@@ -73,3 +73,24 @@ edges_orig = df_edgelists.iloc[0] # a numpy array of edge list for original grap
 <img src ="Images/table1.png" width=500><br>
 <b>Table 1 of the paper</b>
 </p>
+
+### Source of the codes and the time complexity of the algorithms:
+<p align="justify">In the following table the time Complexity and the link of the code for community detection methods have been used in the paper are provided. In the time complexity column, $N$ is the number of nodes, $E$ is the number of edges, $k$ is the number of communities, $k_{\max}$ is the maximum number of clusters considered in model selection, $T$ is the number of iterations for convergence, and $\tau$ is the mixing time of the Markov chain in corresponding algorithm. The maximum number of clusters considered in model selection, $k_{\max}$, is $O(\sqrt{N})$. Therefore, the time complexity of \mbox{LRT-WB} can be simplified as $O(N^{3/2} k^2)$.</p>
+
+<p align="justify"> Note: Here, the time complexities are provided for the algorithms and the time complexity of the codes are possibly different than the ones in the table.
+
+<p align="center">
+<img src ="Images/Table_TC_Source.png" width=500><br>
+<b>Table of time complexity and the link of the codes have been used for community detection algorithms</b>
+</p>
+
+### Reference:
+<p><a>[1] P.-Y. Chen. Analysis and actions on graph data. 2016.</a>
+<p><a>[2] K. Hayashi, T. Konishi, and T. Kawamoto. A tractable fully Bayesian method for the
+stochastic block model. arXiv:1602.02256, 2016.</a>
+<p><a>[3] F. Krzakala, C. Moore, E. Mossel, J. Neeman, A. Sly, L. Zdeborova, and P. Zhang. Spectral redemption in clustering sparse networks. Proc. Natl. Acad. Sci., 110(52):20935– 20940, 2013.</a>
+<p><a>[4] C. M. Le and E. Levina. Estimating the number of communities in networks by spectral methods. arXiv:1507.00827, 2015.</a>
+<p><a>[5] A. Mukherjee, M. Choudhury, F. Peruani, N. Ganguly, and B. Mitra. Dynamics On and Of Complex Networks, Volume 2: Applications to Time-Varying Dynamical Systems. Springer Science & Business Media, 2013.</a>
+<p><a>[6] T. P. Peixoto. Parsimonious module inference in large networks. Phys. Rev. Lett., 110(14):148701, 2013.</a>
+<p><a>[7] A. Saade, F. Krzakala, and L. Zdeborova. Spectral clustering of graphs with the Bethe Hessian. In Adv. Neural Info. Proc. Sys., pages 406–414, 2014.</a>
+<p><a>[8] Y. R. Wang, P. J. Bickel, et al. Likelihood-based model selection for stochastic block models. Ann. Stat., 45(2):500–528, 2017.</a>
