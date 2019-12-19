@@ -95,7 +95,7 @@ edges_orig = df_edgelists.iloc[0] # a numpy array of edge list for original grap
 <b>Table of time complexity and the link of the codes have been used for community detection algorithms</b>
 </p>
 
-##### References in the table:
+#### References in the table:
 <p><a>[1] P.-Y. Chen. Analysis and actions on graph data. 2016.</a>
 <p><a>[2] K. Hayashi, T. Konishi, and T. Kawamoto. A tractable fully Bayesian method for the
 stochastic block model. arXiv:1602.02256, 2016.</a>
