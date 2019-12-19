@@ -1,3 +1,14 @@
+
+
+<html>
+<head>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+</script>
+<script type="text/javascript"
+  src="http://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+</head>
 # CommunityFitNet
 <p align="center">
 <img src ="Images/CommunityFitNet_logo.png"><br>
@@ -75,12 +86,12 @@ edges_orig = df_edgelists.iloc[0] # a numpy array of edge list for original grap
 </p>
 
 ### Source of the codes and the time complexity of the algorithms:
-<p align="justify">In the following table the time Complexity and the link of the code for community detection methods have been used in the paper are provided. In the time complexity column, $N$ is the number of nodes, $E$ is the number of edges, $k$ is the number of communities, $k_{\max}$ is the maximum number of clusters considered in model selection, $T$ is the number of iterations for convergence, and $\tau$ is the mixing time of the Markov chain in corresponding algorithm. The maximum number of clusters considered in model selection, $k_{\max}$, is $O(\sqrt{N})$. Therefore, the time complexity of \mbox{LRT-WB} can be simplified as $O(N^{3/2} k^2)$.</p>
+<p align="justify">In the following table the time Complexity and the link of the code for community detection methods have been used in the paper are provided. In the time complexity column, $N$ is the number of nodes, $E$ is the number of edges, $k$ is the number of communities, $k_{\max}$ is the maximum number of clusters considered in model selection, $T$ is the number of iterations for convergence, and $\tau$ is the mixing time of the Markov chain in corresponding algorithm. The maximum number of clusters considered in model selection, $k_{\max}$, is $O(\sqrt{N})$. Therefore, the time complexity of LRT-WB can be simplified as $O(N^{3/2} k^2)$.</p>
 
 <p align="justify"> Note: Here, the time complexities are provided for the algorithms and the time complexity of the codes are possibly different than the ones in the table.
 
 <p align="center">
-<img src ="Images/Table_TC_Source.png" width=500><br>
+<img src ="Images/Table_TC_Source.png" width=900><br>
 <b>Table of time complexity and the link of the codes have been used for community detection algorithms</b>
 </p>
 
