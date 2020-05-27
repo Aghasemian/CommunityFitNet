@@ -37,13 +37,26 @@ overfitting and underfitting of community detection methods on real networks, wr
 <br><b>Amir Ghasemian</b>, Homa Hosseinmardi, and Aaron Clauset
 <br> (<a href="https://arxiv.org/abs/1802.10582" target="_blank"> arXiv version </a>)</p>
 
-### Download the package:
-<p align="left">
-<a>Download JSON Format (To Be Added)</a>,<br>
-<a href="Benchmark/CommunityFitNet.pickle">Download Pickle Format</a>.</p>
-Note: Previously the CSV Format was also provided. We found some issues in that file and removed it. 
 
-<p align="justify">This package contains the corpus of 572 real-world networks from many scientific domains drawn from the Index of Complex Networks (<a href="https://icon.colorado.edu/#!/">ICON</a>). This corpus spans a variety of sizes and structures, with 22% social, 21% economic, 34% biological, 12% technological, 4% information, and 7% transportation graphs (Fig. 1 of the paper). In addition to the information about each network, we provide the partitions achieved by our set of chosen algorithms in our paper for further study and comparisons by other researchers in the field.</p>
+### Clarification about the data:
+We found an indexing issue in some of the bipartite networks (all “Norwegian_Board_of_Directors_net2mode…” (111 networks — network ids = 254–364) and one network called “Aishihik_Lake_host-parasite_web_Aishihik_Lake_host-parasite_web” (1 network - network id = 0) have this indexing issue). Therefore, we provide two versions of the data. One for replication purposes only, and one for reusing the data by other researchers.
+
+### Download the corrected package:
+<p align="left">
+<a href="Benchmark_updated/CommunityFitNet_updated.pickle">Download Pickle Format</a>.</p>
+
+<p align="justify">This package contains the corpus of 572 real-world networks (the corrected networks are replaced with the networks in the paper) from many scientific domains drawn from the Index of Complex Networks (<a href="https://icon.colorado.edu/#!/">ICON</a>). This corpus spans a variety of sizes and structures, with 22% social, 21% economic, 34% biological, 12% technological, 4% information, and 7% transportation graphs (Fig. 1 of the paper). In addition to the information about each network, we provide the partitions achieved by our set of chosen algorithms in our paper (except than for corrected networks) for further study and comparisons by other researchers in the field.</p>
+
+
+### Download the original package (for replication purposes only):
+<p align="left">
+<a href="Benchmark/CommunityFitNet.pickle">Download Pickle Format</a>.</p>
+Note: This data is for replication purposes only. If you want to use this data for your project the corrected version is provided above.
+
+<p align="justify">This package contains the corpus of 572 real-world networks (original networks have been used in our paper) from many scientific domains drawn from the Index of Complex Networks (<a href="https://icon.colorado.edu/#!/">ICON</a>). This corpus spans a variety of sizes and structures, with 22% social, 21% economic, 34% biological, 12% technological, 4% information, and 7% transportation graphs (Fig. 1 of the paper). In addition to the information about each network, we provide the partitions achieved by our set of chosen algorithms in our paper for further study and comparisons by other researchers in the field.</p>
+
+
+
 
 ### Instruction for using the package:
 
