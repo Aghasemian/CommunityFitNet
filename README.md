@@ -3,8 +3,15 @@
 <img src ="Images/CommunityFitNet_logo.png"><br>
 </p>
 
-<p align="justify">This page is a companion for our paper on 
-overfitting and underfitting of community detection methods on real networks, written by <a href = "https://aghasemian.github.io">Amir Ghasemian</a>, <a href = "https://homahm.github.io">Homa Hosseinmardi</a>, and <a href="http://santafe.edu/~aaronc/">Aaron Clauset</a>. CommunityFitNet provides both (i) a reference set of networks and (ii) partitions of those networks for a large set of state-of-the-art community detection algorithms (Table 1 of the paper).</p>
+
+<p align="justify">This page is a companion for the paper   
+  
+> <b>Amir Ghasemian</b>, Homa Hosseinmardi, and Aaron Clauset
+> <br><b><a href="https://ieeexplore.ieee.org/document/8692626" target="_blank">Evaluating Overfit and Underfit in Models of Network Community Structure</a>, IEEE TKDE 32(9), 1722-1735 (2019).
+
+on evaluating the overfitting and underfitting of community detection methods on real networks.</p>
+
+<p align="justify">CommunityFitNet provides both (i) a reference set of networks and (ii) partitions of those networks for a large set of state-of-the-art community detection algorithms (Table 1 of the paper).</p>
 
 <p align="justify"> The purpose of this package is to facilitate between-algorithm comparisons on a large and realistic corpus of network data sets drawn from a variety of domains and of a variety of sizes. The qualitative behavior of new community detection algorithms can be assessed by comparing their partitions to those in the reference set. To compare a new algorithm with those in our evaluation set of algorithms, a researcher can run the new algorithm on the proposed benchmark, and identify which reference algorithm has the most similar behavior, e.g., in the average number of communities found (Fig. 2b of the paper). We believe the availability of this benchmark and the results of running so many state-of-the-art algorithms on it should facilitate further advances in developing community detection algorithms.</p>
 
