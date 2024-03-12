@@ -109,7 +109,7 @@ stochastic block model. arXiv:1602.02256, 2016.</a>
 <p><a>[8] Y. R. Wang, P. J. Bickel, et al. Likelihood-based model selection for stochastic block models. Ann. Stat., 45(2):500–528, 2017.</a>
 
 ### How to cite this work:
-<p>If you use this code or data in your research, please cite it as follows:</p>
+<p>If you use this data in your research, please cite it as follows:</p>
 <pre>
 @article{ghasemian2019evaluating,
   title = {Evaluating overfit and underfit in models of network community structure},
