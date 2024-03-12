@@ -107,3 +107,19 @@ stochastic block model. arXiv:1602.02256, 2016.</a>
 <p><a>[6] T. P. Peixoto. Parsimonious module inference in large networks. Phys. Rev. Lett., 110(14):148701, 2013.</a>
 <p><a>[7] A. Saade, F. Krzakala, and L. Zdeborova. Spectral clustering of graphs with the Bethe Hessian. In Adv. Neural Info. Proc. Sys., pages 406–414, 2014.</a>
 <p><a>[8] Y. R. Wang, P. J. Bickel, et al. Likelihood-based model selection for stochastic block models. Ann. Stat., 45(2):500–528, 2017.</a>
+
+### How to cite this work:
+<p>If you use this code or data in your research, please cite it as follows:</p>
+<pre>
+@article{ghasemian2019evaluating,
+  title = {Evaluating overfit and underfit in models of network community structure},
+  author = {Ghasemian, Amir and Hosseinmardi, Homa and Clauset, Aaron},
+  journal = {IEEE Transactions on Knowledge and Data Engineering},
+  volume = {32},
+  number = {9},
+  pages = {1722--1735},
+  year = {2019},
+  publisher = {IEEE},
+  href = {https://journals.aps.org/prx/abstract/10.1103/PhysRevX.6.031005},
+}
+</pre>
