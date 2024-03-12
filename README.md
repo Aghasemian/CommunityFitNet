@@ -7,7 +7,7 @@
 <p align="justify">This page is a companion for the paper   
   
 > <b>Amir Ghasemian</b>, Homa Hosseinmardi, and Aaron Clauset
-> <br><b><a href="https://ieeexplore.ieee.org/document/8692626" target="_blank">Evaluating Overfit and Underfit in Models of Network Community Structure</a>, IEEE TKDE 32(9), 1722-1735 (2019).
+> <br><b><a href="https://ieeexplore.ieee.org/document/8692626" target="_blank">Evaluating Overfit and Underfit in Models of Network Community Structure</a>, <i>IEEE TKDE</i> 32(9), 1722-1735 (2019).
 
 on evaluating the overfitting and underfitting of community detection methods on real networks.</p>
 
